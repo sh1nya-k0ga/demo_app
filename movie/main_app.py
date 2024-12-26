@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # 画像を挿入
-image = Image.open('./data/image.png')
+image = Image.open('./movie/data/image.png')
 st.image(image, width = 1000)
 
 
