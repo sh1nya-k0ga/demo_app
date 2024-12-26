@@ -1,2 +1,2 @@
-Pillow==8.4.0
-oandas==1.2.3
+Pillow==10.4.0
+oandas==2.2.2
